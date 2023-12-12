@@ -1394,20 +1394,7 @@ body {
     z-index: -1;
   }
 
-  /**
-   * VIDEO
-   */
-
-  .video-shape-1 {
-    top: -50px;
-    left: 0;
-  }
-
-  .video-shape-2 {
-    top: -80px;
-    right: 120px;
-    z-index: 1;
-  }
+  
 
   /**
    * BLOG
